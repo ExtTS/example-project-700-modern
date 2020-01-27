@@ -1,2 +1,1 @@
-# example-project-700-modern
-Example TypeScript project in Ext.JS v7.0.0 with modern toolkit.
+# Example TypeScript Project - Ext.JS v7.0.0 - Modern Toolkit
